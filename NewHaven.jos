@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <josm-session version="0.1">
     <viewport>
-        <center lat="-0.0037439040501919397" lon="0.0014127060124730162"/>
-        <scale meter-per-pixel="15.727744"/>
+        <center lat="-0.03966501961602886" lon="-0.10173696124828505"/>
+        <scale meter-per-pixel="22.470797"/>
     </viewport>
     <projection>
         <projection-choice>
@@ -13,9 +13,9 @@
     </projection>
     <layers active="1">
         <layer index="1" name="New Haven County.osm" type="osm-data" version="0.1" visible="true">
-            <file>file:/C:/Users/hp/Downloads/New%20Haven%20County.osm</file>
+            <file>file:/C:/Users/hp/OneDrive%20-%20University%20of%20Texas%20at%20Arlington/GitHub/Mayflower-GPS/New%20Haven%20County.osm</file>
         </layer>
-        <layer index="2" name="NHC_REMADE_RENDER1_1.png" type="piclayerImage" version="0.1" visible="false">
+        <layer index="2" name="NHC_REMADE_RENDER1_1.png" type="piclayerImage" version="0.1" visible="true">
             <piclayerImage>
                 <file>C:\Users\hp\Downloads\NHC_REMADE_RENDER1_1.png</file>
                 <thumbnail>false</thumbnail>
